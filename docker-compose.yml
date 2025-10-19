@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  vocabrush:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vocabrush_app
+    ports:
+      - "8622:80"
+    restart: unless-stopped
