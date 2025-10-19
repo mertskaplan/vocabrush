@@ -4,7 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
-    container_name: vocabrush_app
+    container_name: vocabrush
     ports:
       - "8622:80"
     restart: unless-stopped
