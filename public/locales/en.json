@@ -4,7 +4,7 @@
     "slogan": "The Playful Word Party Game",
     "howToPlay": "How to Play?",
     "startGame": "Start Game Setup",
-    "footer": "Built with ❤️ at Cloudflare"
+    "footer": "Built with ❤️ by Mert S. Kaplan"
   },
   "setup": {
     "teamsTitle": "How many teams?",
@@ -29,7 +29,7 @@
     "noMoreWordsDesc": "Great job clearing the list!",
     "undo": "Undo",
     "bonusTurnTitle": "Bonus Turn!",
-    "bonusTurnDescription": "You cleared the round early! Start Round {round} with your remaining {time} seconds.",
+    "bonusTurnDescription": "You cleared the round early! Start new round {round} with your remaining {time} seconds.",
     "turnSummary": {
       "title": "{teamName}'s Turn Over!",
       "subtitle": "Time's up!",
@@ -42,7 +42,7 @@
       "title": "End Game?",
       "description": "Are you sure you want to end the current game? All progress will be lost.",
       "cancel": "Cancel",
-      "confirm": "End Game"
+      "confirm": "End"
     }
   },
   "scoreboard": {
