@@ -4,7 +4,7 @@
     "slogan": "Eğlenceli Kelime Parti Oyunu",
     "howToPlay": "Nasıl Oynanır?",
     "startGame": "Oyunu Kur",
-    "footer": "Cloudflare'de ❤️ ile yapıld��"
+    "footer": "Mert S. Kaplan tarafından ❤️ ile yapıldı"
   },
   "setup": {
     "teamsTitle": "Kaç takım var?",
@@ -26,13 +26,13 @@
     "round3Description": "Kelime kullanmak yasak! Kelimeyi sadece jestler ve beden dili kullanarak anlat.",
     "start": "Başla!",
     "noMoreWords": "Başka kelime kalmadı!",
-    "noMoreWordsDesc": "Listeyi temizlediniz, harika i��!",
+    "noMoreWordsDesc": "Listeyi temizlediniz, harika iş!",
     "undo": "Geri Al",
     "bonusTurnTitle": "Bonus Tur!",
-    "bonusTurnDescription": "Turu erken bitirdin! {round}. Tura kalan {time} saniyenle başla.",
+    "bonusTurnDescription": "Turu erken bitirdin! {round}. Yeni tura kalan {time} saniyenle başla.",
     "turnSummary": {
-      "title": "{teamName} Takımının Turu Bitti!",
-      "subtitle": "S��re doldu!",
+      "title": "{teamName} takımının sırası geçti!",
+      "subtitle": "Süre doldu!",
       "wordsExhaustedTitle": "Tüm kelimeler bitti!",
       "guessedThisTurn": "Bu tur bilinen",
       "wordsLeft": "Kalan kelime",
@@ -42,7 +42,7 @@
       "title": "Oyunu Bitir?",
       "description": "Mevcut oyunu bitirmek istediğinizden emin misiniz? Tüm ilerleme kaybolacak.",
       "cancel": "İptal",
-      "confirm": "Oyunu Bitir"
+      "confirm": "Bitir"
     }
   },
   "scoreboard": {
@@ -92,7 +92,7 @@
       "Koca",
       "Minik",
       "Cesaretli",
-      "K��vrak",
+      "Kıvrak",
       "Süper",
       "Efsanevi",
       "Usta",
@@ -135,7 +135,6 @@
       "Develer",
       "Yılanlar",
       "Panterler",
-      "Köpekbalıkları",
       "Balinalar",
       "Simsarlar",
       "Tavşanlar",
