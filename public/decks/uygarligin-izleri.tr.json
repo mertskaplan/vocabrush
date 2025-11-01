@@ -1,6 +1,6 @@
 {
   "id": "uygarligin-izleri.tr",
-  "name": "Uygarlığın izleri (tarihi kişiler)",
+  "name": "Uygarlığın izleri (Tarihi kişiler)",
   "language": "tr",
   "count": 44,
   "words": [
@@ -24,7 +24,6 @@
     { "term": "Buda", "hint": "Aydınlanmaya ulaşarak ıstırabın sonunu öğreten bilge", "difficulty": 2 },
     { "term": "Büyük İskender", "hint": "Asya’yı fethedip kültürleri harmanlayan genç kral", "difficulty": 2 },
     { "term": "Mikelanj", "hint": "Davud heykeliyle ölümsüzleşen Rönesans sanatçısı", "difficulty": 2 },
-    { "term": "Mahatma Gandhi", "hint": "Şiddetsiz direnişle Hindistan’ın bağımsızlığını kazandıran lider", "difficulty": 1 },
     { "term": "Nelson Mandela", "hint": "Güney Afrika Cumhuriyeti'nin özgürlüğün sembolü", "difficulty": 1 },
     { "term": "Abraham Lincoln", "hint": "Köleliği kaldıran ve Amerika’yı birleştiren başkan", "difficulty": 1 },
     { "term": "Martin Luther King", "hint": "Bir rüyası olan insan hakları savunucusu", "difficulty": 1 },
@@ -47,6 +46,7 @@
     { "term": "Mao Zedong", "hint": "Kültür devrimiyle Çin’i yeniden biçimlendiren lider", "difficulty": 2 },
     { "term": "Adolf Hitler", "hint": "Üstün ırkı savunan ve dünyayı savaşa sürükleyen diktatör", "difficulty": 3 },
     { "term": "Margaret Thatcher", "hint": "‘Demir Lady’ lakabıyla bilinen İngiliz başbakanı", "difficulty": 1 },
-    { "term": "Gandhi", "hint": "Pasif direnişin sembolü olan, Hindistan bağımsızlık mücadelesinin simge isimi", "difficulty": 1 }
+    { "term": "Gandhi", "hint": "Pasif direnişin sembolü olan, Hindistan bağımsızlık mücadelesinin simge isimi", "difficulty": 1 },
+    { "term": "Immanuel Kant", "hint": "Ödev ahlakı anlayışını ortaya koyan Aydınlanma Çağı'nın en etkili Alman filozofu", "difficulty": 3 }
   ]
 }
