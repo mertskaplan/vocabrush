@@ -99,7 +99,7 @@ const TeamCustomization = () => {
     </motion.div>
   );
 };
-const deckFilenames = ['baslangic.tr.json', 'zihin-acici.tr.json', 'objects.en.json', 'food.tr.json', 'places.tr.json'];
+const deckFilenames = ['baslangic.tr.json', 'zihin-acici.tr.json', 'objects.en.json', 'karanlik-seruven-destesi.tr.json', 'uygarligin-izleri.tr.json', 'argo.tr.json'];
 const DeckSelection = () => {
   const { language, selectDeck, selectedDeck, startGame, customDeck, setCustomDeck } = useGameStore(
     useShallow((state) => ({
