@@ -4,7 +4,7 @@
     "slogan": "Eğlenceli Parti Oyunu",
     "howToPlay": "Nasıl Oynanır?",
     "startGame": "Oyunu Kur",
-    "footer": "Mert S. Kaplan tarafından ❤️ ile yapıldı"
+    "footer": " "
   },
   "setup": {
     "teamsTitle": "Kaç takım var?",
@@ -47,7 +47,7 @@
     "endGameConfirmation": {
       "title": "Oyunu Bitir?",
       "description": "Mevcut oyunu bitirmek istediğinizden emin misiniz? Tüm ilerleme kaybolacak.",
-      "cancel": "��ptal",
+      "cancel": "Vazgeç",
       "confirm": "Bitir"
     }
   },
@@ -103,7 +103,7 @@
       "Minik",
       "Cesaretli",
       "Kıvrak",
-      "S��per",
+      "Süper",
       "Efsanevi",
       "Usta",
       "Fırtınalı",
